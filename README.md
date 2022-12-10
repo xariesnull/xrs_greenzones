@@ -1,4 +1,6 @@
-![](upload://k7PUdCP62yqQN5ws9uemaRdNNDA.jpeg)
+<p align="center">
+<img src="https://forum.cfx.re/uploads/default/original/4X/8/d/0/8d0e4653c43b2508940d3c97891e7e3265563e82.jpeg" />
+</p>
 
 <h1>Simply greenzone script with extensive configuration options</h1> 
 
